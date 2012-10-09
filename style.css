@@ -158,6 +158,12 @@ font-size:9px;
 color:#386172;
 }
 
+#paceLogo {
+	margin-top: 3%;
+	margin-left: 40%;
+}
+
+
 html, body {
 text-align: center;
 }
