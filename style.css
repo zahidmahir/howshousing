@@ -112,6 +112,7 @@ margin-top:10px;
 
 .contentBox .innerBox
 {
+	display: inline-block;
 position:relative;
 width:650px;
 height:auto;
@@ -131,8 +132,14 @@ margin-left:15px;
 margin-top:15px;
 }
 
+.buildingImage {
+	display: inline-block;
+}
+
 .contentText
 {
+	float:left; 
+	width:80%;
 font-size:13px;
 line-height:24px;
 margin-left:13px;
