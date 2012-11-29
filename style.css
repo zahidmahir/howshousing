@@ -60,26 +60,27 @@ background-image:url(tab.png);
 #mainPicture
 {
 width:670px;
-height:345px;
+/*height:545px;*/
 background-color:#FFFFFF;
 }
 
 #mainPicture
 {
 width:670px;
-height:345px;
+/*height:345px;*/
 background-color:#FFFFFF;
 }
 
 #mainPicture .picture
 {
 position:relative;
-width:650px;
-height:325px;
+width:100%;
+height:500px;
 top:10px;
-background-image:url(images/anoceanofsky.jpeg);
+background-image:url(images/main.png);
+/*background-size: 100%; */
 background-repeat:no-repeat;
-margin-left:10px;
+
 }
 
 #headerTitle
@@ -104,10 +105,11 @@ font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 
 .contentBox
 {
-width:670px;
+width:660px;
 height:auto;
 background-color:#FFFFFF;
-margin-top:10px;
+/*margin-top:10px;*/
+padding:5px;
 }
 
 .contentBox .innerBox
@@ -116,11 +118,11 @@ margin-top:10px;
 position:relative;
 width:650px;
 height:auto;
-top:10px;
-margin-left:10px;
+/*top:10px;*/
+padding:5px;
 background-image:url(images/content_back.png);
 background-repeat:repeat-x;
-padding-bottom:35px;
+/*padding-bottom:35px;*/
 }
 
 .contentTitle
@@ -130,6 +132,9 @@ margin-bottom:15px;
 padding-top:18px;
 margin-left:15px;
 margin-top:15px;
+}
+span {
+float:left;
 }
 
 .buildingImage {
