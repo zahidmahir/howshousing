@@ -1,0 +1,194 @@
+[Tue Apr 09 20:35:19 2013] [error] [client 207.237.158.11] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 09 20:35:23 2013] [error] [client 207.237.158.11] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 09 20:59:32 2013] [error] [client 92.245.46.180] script '/var/www/howshousing.com/public_html/admin.php' not found or unable to stat
+[Tue Apr 09 20:59:32 2013] [error] [client 92.245.46.180] File does not exist: /var/www/howshousing.com/public_html/administrator
+[Tue Apr 09 20:59:33 2013] [error] [client 92.245.46.180] script '/var/www/howshousing.com/public_html/wp-login.php' not found or unable to stat
+[Tue Apr 09 22:01:04 2013] [error] [client 207.237.158.11] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 09 22:01:07 2013] [error] [client 207.237.158.11] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 09 22:38:59 2013] [error] [client 157.56.93.221] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 00:25:57 2013] [error] [client 207.237.184.67] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 10 00:26:00 2013] [error] [client 207.237.184.67] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 10 01:17:43 2013] [error] [client 157.56.93.221] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 02:44:40 2013] [error] [client 66.249.73.177] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 03:14:36 2013] [error] [client 66.249.73.1] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 07:23:46 2013] [error] [client 46.119.121.114] File does not exist: /var/www/howshousing.com/public_html/wp-admin
+[Wed Apr 10 07:23:46 2013] [error] [client 46.119.121.114] File does not exist: /var/www/howshousing.com/public_html/wordpress
+[Wed Apr 10 07:23:46 2013] [error] [client 46.119.121.114] File does not exist: /var/www/howshousing.com/public_html/blog
+[Wed Apr 10 10:06:01 2013] [error] [client 157.56.93.221] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 14:20:12 2013] [error] [client 173.252.100.112] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Wed Apr 10 14:20:12 2013] [error] [client 173.252.100.113] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Wed Apr 10 14:57:45 2013] [error] [client 198.105.45.35] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 10 15:02:22 2013] [error] [client 198.105.45.35] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://www.howshousing.com/style.css
+[Wed Apr 10 15:44:12 2013] [error] [client 157.55.32.110] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 16:12:20 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 10 16:12:33 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 10 16:12:34 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 10 18:03:55 2013] [error] [client 173.252.73.118] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Wed Apr 10 18:03:55 2013] [error] [client 173.252.73.118] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Wed Apr 10 21:53:50 2013] [error] [client 157.55.34.183] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 21:56:43 2013] [error] [client 180.76.6.230] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 21:56:43 2013] [error] [client 180.76.5.175] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 23:18:33 2013] [error] [client 100.43.83.155] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 10 23:18:34 2013] [error] [client 100.43.83.155] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Thu Apr 11 01:15:39 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Thu Apr 11 01:15:49 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Thu Apr 11 01:17:39 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Thu Apr 11 01:17:44 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/style.css
+[Thu Apr 11 01:28:14 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://www.howshousing.com/
+[Thu Apr 11 01:28:18 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://www.howshousing.com/
+[Thu Apr 11 02:42:16 2013] [error] [client 66.249.73.1] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Thu Apr 11 05:11:29 2013] [error] [client 66.249.73.177] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Thu Apr 11 09:47:28 2013] [error] [client 157.55.34.183] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Thu Apr 11 18:25:31 2013] [error] [client 198.105.46.51] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Thu Apr 11 18:25:31 2013] [error] [client 198.105.46.51] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Thu Apr 11 18:25:34 2013] [error] [client 198.105.46.51] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Thu Apr 11 18:25:51 2013] [error] [client 198.105.46.51] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://www.howshousing.com/style.css
+[Thu Apr 11 18:26:05 2013] [error] [client 198.105.46.51] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://www.howshousing.com/style.css
+[Thu Apr 11 18:26:46 2013] [error] [client 198.105.46.46] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Thu Apr 11 18:26:49 2013] [error] [client 198.105.46.46] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Thu Apr 11 18:26:50 2013] [error] [client 198.105.46.46] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Thu Apr 11 18:26:51 2013] [error] [client 198.105.46.46] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/rules.html
+[Thu Apr 11 22:37:27 2013] [error] [client 157.55.34.183] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 04:29:05 2013] [error] [client 66.249.73.1] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 06:21:37 2013] [error] [client 195.250.72.86] File does not exist: /var/www/howshousing.com/public_html/wp-admin
+[Fri Apr 12 06:21:37 2013] [error] [client 195.250.72.86] File does not exist: /var/www/howshousing.com/public_html/wordpress
+[Fri Apr 12 06:21:38 2013] [error] [client 195.250.72.86] File does not exist: /var/www/howshousing.com/public_html/blog
+[Fri Apr 12 06:37:05 2013] [error] [client 157.55.34.183] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 07:59:02 2013] [error] [client 173.252.100.115] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Fri Apr 12 07:59:02 2013] [error] [client 173.252.100.113] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Fri Apr 12 09:48:03 2013] [error] [client 157.55.34.183] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 13:10:56 2013] [error] [client 199.30.16.6] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 13:39:36 2013] [error] [client 157.55.32.110] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 16:03:55 2013] [error] [client 199.30.16.62] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 18:14:22 2013] [error] [client 157.55.32.110] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 18:54:22 2013] [error] [client 207.237.184.67] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Fri Apr 12 19:22:20 2013] [error] [client 157.55.32.104] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 20:40:02 2013] [error] [client 173.252.110.116] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Fri Apr 12 20:40:02 2013] [error] [client 173.252.110.117] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Fri Apr 12 23:32:27 2013] [error] [client 199.30.16.6] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Fri Apr 12 23:37:02 2013] [error] [client 46.4.25.85] File does not exist: /var/www/howshousing.com/public_html/images/winner.jpg
+[Sat Apr 13 00:15:31 2013] [error] [client 157.55.32.103] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Sat Apr 13 03:32:52 2013] [error] [client 66.249.75.183] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Sat Apr 13 16:44:43 2013] [error] [client 80.79.119.210] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Sat Apr 13 22:40:02 2013] [error] [client 188.165.230.147] File does not exist: /var/www/howshousing.com/public_html/robots.txt, referer: http://www.finddotcom.com/
+[Sun Apr 14 04:16:56 2013] [error] [client 157.55.34.183] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Sun Apr 14 17:14:39 2013] [error] [client 100.43.83.155] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Sun Apr 14 17:14:58 2013] [error] [client 100.43.83.155] File does not exist: /var/www/howshousing.com/public_html/howshousing.com
+[Sun Apr 14 17:17:22 2013] [error] [client 100.43.83.155] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Mon Apr 15 02:05:44 2013] [error] [client 66.249.75.170] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Mon Apr 15 03:13:05 2013] [error] [client 66.249.75.183] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Mon Apr 15 03:25:16 2013] [error] [client 92.245.49.39] script '/var/www/howshousing.com/public_html/admin.php' not found or unable to stat
+[Mon Apr 15 03:25:16 2013] [error] [client 92.245.49.39] File does not exist: /var/www/howshousing.com/public_html/administrator
+[Mon Apr 15 03:25:17 2013] [error] [client 92.245.49.39] script '/var/www/howshousing.com/public_html/wp-login.php' not found or unable to stat
+[Mon Apr 15 05:21:47 2013] [error] [client 199.30.16.62] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Mon Apr 15 15:37:17 2013] [error] [client 199.30.16.6] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Mon Apr 15 20:36:43 2013] [error] [client 66.249.76.170] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Tue Apr 16 02:01:02 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:01:02 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/apple-touch-icon-precomposed.png
+[Tue Apr 16 02:06:25 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:25 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:06:26 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:28 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:28 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:28 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:29 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:29 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/apple-touch-icon-precomposed.png
+[Tue Apr 16 02:06:29 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:30 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:31 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:31 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:31 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:31 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://www.howshousing.com/
+[Tue Apr 16 02:06:31 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:06:31 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:06:32 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:32 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:33 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:06:33 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:06:34 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:34 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:06:35 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:36 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:06:36 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:36 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:37 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:37 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:38 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:40 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:41 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:06:41 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:41 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://www.howshousing.com/style.css
+[Tue Apr 16 02:06:41 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:41 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:41 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:42 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://www.howshousing.com/style.css
+[Tue Apr 16 02:06:42 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:06:44 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:44 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:53 2013] [error] [client 70.192.70.16] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:06:53 2013] [error] [client 70.192.70.16] File does not exist: /var/www/howshousing.com/public_html/apple-touch-icon-precomposed.png
+[Tue Apr 16 02:06:53 2013] [error] [client 70.192.70.16] File does not exist: /var/www/howshousing.com/public_html/apple-touch-icon.png
+[Tue Apr 16 02:07:22 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:07:26 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:07:28 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:07:32 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 02:07:32 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 02:07:32 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:11:19 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:17:02 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Tue Apr 16 02:17:40 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 03:26:37 2013] [error] [client 173.252.73.115] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Tue Apr 16 03:26:37 2013] [error] [client 173.252.73.116] File does not exist: /var/www/howshousing.com/public_html/images/header.jpg
+[Tue Apr 16 03:43:27 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 03:43:27 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/apple-touch-icon-precomposed.png
+[Tue Apr 16 05:42:56 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Tue Apr 16 05:42:58 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Tue Apr 16 17:50:21 2013] [error] [client 100.43.83.155] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Tue Apr 16 17:50:21 2013] [error] [client 100.43.83.155] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Tue Apr 16 18:11:28 2013] [error] [client 198.105.45.35] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://www.howshousing.com/style.css
+[Tue Apr 16 19:02:43 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://www.howshousing.com/
+[Tue Apr 16 20:50:37 2013] [error] [client 157.55.32.104] File does not exist: /var/www/howshousing.com/public_html/robots.txt
+[Wed Apr 17 00:32:16 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 00:32:24 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 00:58:23 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 00:58:29 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:07:41 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:07:42 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:07:46 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:07:46 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:07:47 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:07:49 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:09:13 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 01:09:30 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:09:30 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 01:09:53 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 01:10:37 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 01:10:50 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:10:56 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:11:34 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 01:11:35 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:12:28 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:12:32 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:15:17 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:15:38 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:16:17 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:16:44 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:17:02 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:17:36 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 01:17:38 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:20:52 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 01:20:53 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:23:16 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 01:23:18 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:26:58 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:27:21 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 01:27:54 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:27:54 2013] [error] [client 198.105.46.70] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:31:05 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:31:12 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:31:37 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:42:56 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:43:23 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
+[Wed Apr 17 01:43:24 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/tab.png, referer: http://howshousing.com/
+[Wed Apr 17 01:44:10 2013] [error] [client 198.105.46.69] File does not exist: /var/www/howshousing.com/public_html/favicon.ico, referer: http://howshousing.com/
+[Wed Apr 17 02:57:10 2013] [error] [client 207.237.158.11] File does not exist: /var/www/howshousing.com/public_html/favicon.ico
